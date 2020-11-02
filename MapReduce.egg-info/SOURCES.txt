@@ -1,0 +1,15 @@
+README.md
+setup.py
+MapReduce/LogUtils.py
+MapReduce/MapReduce.py
+MapReduce/NLPUtils.py
+MapReduce/Runner.py
+MapReduce/__init__.py
+MapReduce.egg-info/PKG-INFO
+MapReduce.egg-info/SOURCES.txt
+MapReduce.egg-info/dependency_links.txt
+MapReduce.egg-info/top_level.txt
+MapReduce/tests/__init__.py
+MapReduce/tests/test_MapReduce.py
+MapReduce/tests/test_NLPUtils.py
+MapReduce/tests/test_Runner.py

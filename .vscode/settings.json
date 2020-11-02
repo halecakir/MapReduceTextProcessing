@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/Users/huseyinalecakir/anaconda3/bin/python",
+    "python.pythonPath": "/Users/huseyinalecakir/MapReduce/env/bin/python3",
     "python.testing.unittestArgs": [
         "-v",
         "-s",
